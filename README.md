@@ -1,4 +1,4 @@
-# Movie Exlporer
+# Movie Explorer
 
 ## Features
 

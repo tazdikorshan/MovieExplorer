@@ -1,4 +1,4 @@
-import { Link } from "react-route-dom";
+import { Link } from "react-router-dom";
 
 const Navbar = () => {
   return (

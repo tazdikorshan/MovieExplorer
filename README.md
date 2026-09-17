@@ -15,3 +15,5 @@
 - TVMaze API
 
 ## Live Demo
+
+https://movie-explorer-chi-virid.vercel.app/
